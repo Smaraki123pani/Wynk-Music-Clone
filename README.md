@@ -17,7 +17,7 @@ A dynamic and responsive **Wynk Music Clone** built using **HTML, CSS, and JavaS
 - **JavaScript (ES6+)** - Functionality for audio controls and interactivity
 
 ## 📸 Preview
-
+![Screenshot-Wynk-Music-Clone](https://github.com/user-attachments/assets/59f1c4e4-ec93-45bb-a4af-ea250e5c4c3d)
 
 ## 📂 Project Structure
 
@@ -26,7 +26,7 @@ A dynamic and responsive **Wynk Music Clone** built using **HTML, CSS, and JavaS
  ├── 📄 index.html       # Main HTML file
  ├── 📄 style.css        # CSS file for styling
  ├── 📄 script.js        # JavaScript file for logic
- ├── 📁 assets/          # Audio files, gif, images, etc.
+ ├── 📁 covers/          # Music Cover Images.
  ├── 📄 README.md        # Project documentation
 ```
 
